@@ -50,3 +50,5 @@ socket.on("bye", (left, newCount) => {
 });
 
 socket.on("new_message", addMessage);
+
+socket.on("room_change", console.log);
