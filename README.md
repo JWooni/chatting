@@ -1,3 +1,3 @@
-# Noom
+# Chatting
 
-Zoom Clone using NodeJs, WebRTC and Websockets
+live chat program
